@@ -11,22 +11,22 @@
 #
 # Georgetown Riga Oslo Madrid Amsterdam Chisinau Stockholm
 #
-@    title "GROMACS Energies"
-@    xaxis  label "Time (ps)"
-@    yaxis  label "(kJ/mol), (K), (bar), (nm^3)"
-@TYPE xy
-@ view 0.15, 0.15, 0.75, 0.85
-@ legend on
-@ legend box on
-@ legend loctype view
-@ legend 0.78, 0.8
-@ legend length 2
-@ s0 legend "Potential"
-@ s1 legend "Kinetic En."
-@ s2 legend "Total Energy"
-@ s3 legend "Temperature"
-@ s4 legend "Pressure"
-@ s5 legend "Volume"
+#    title "GROMACS Energies"
+#    xaxis  label "Time (ps)"
+#    yaxis  label "(kJ/mol), (K), (bar), (nm^3)"
+#TYPE xy
+# view 0.15, 0.15, 0.75, 0.85
+# legend on
+# legend box on
+# legend loctype view
+# legend 0.78, 0.8
+# legend length 2
+# s0 legend "Potential"
+# s1 legend "Kinetic En."
+# s2 legend "Total Energy"
+# s3 legend "Temperature"
+# s4 legend "Pressure"
+# s5 legend "Volume"
     0.000000  -175680.937500  35128.644531  -140552.296875  309.853302   84.967438  137.956879
   100.000000  -175387.062500  35737.015625  -139650.046875  315.219452  116.084549  137.819077
   200.000000  -175059.531250  35401.789062  -139657.750000  312.262573  -85.727356  137.437531
