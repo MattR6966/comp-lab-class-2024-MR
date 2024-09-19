@@ -12,8 +12,8 @@
 # Georgetown Riga Oslo Madrid Amsterdam Chisinau Stockholm
 #
 @    title "GROMACS Energies"
-@    xaxis  label "Time (ps)"
-@    yaxis  label "(kJ/mol), (K), (bar), (nm^3)"
+#    xaxis  label "Time (ps)"
+#    yaxis  label "(kJ/mol), (K), (bar), (nm^3)"
 @TYPE xy
 @ view 0.15, 0.15, 0.75, 0.85
 @ legend on
