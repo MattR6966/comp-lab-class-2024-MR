@@ -1,0 +1,38 @@
+# This file was created Wed Oct  2 20:54:39 2024
+# Created by:
+#                      :-) GROMACS - gmx gyrate, 2023.3 (-:
+# 
+# Executable:   /ext3/apps/gromacs/2023.3/openmpi/intel/bin/gmx_mpi
+# Data prefix:  /ext3/apps/gromacs/2023.3/openmpi/intel
+# Working dir:  /scratch/work/courses/CHEM-GA-2671-2024fa/students/mr6966/comp-lab-class-2024-MR/Week4-CharmmGuiSetup/1V1D_AMBER_GROMACS/gromacs
+# Command line:
+#   gmx_mpi gyrate -s step5_5.tpr -f 1V1D_combined_trj.xtc -o 1V1D_gyrate.xvg
+# gmx gyrate is part of G R O M A C S:
+#
+# GROwing Monsters And Cloning Shrimps
+#
+@    title "Radius of gyration (total and around axes)"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "Rg (nm)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Rg"
+@ s1 legend "Rg\sX\N"
+@ s2 legend "Rg\sY\N"
+@ s3 legend "Rg\sZ\N"
+         0     1.03441    0.983134    0.650988     0.86584
+       100     1.01048    0.959738    0.574971    0.889065
+       200     1.02759    0.928137    0.647276    0.911847
+       300     1.03498    0.971194     0.61265    0.907649
+       400     1.03479    0.938146    0.686775    0.888707
+       500     1.02749    0.855294    0.808303    0.852413
+       600     1.03923    0.860713    0.844973    0.839758
+       700     1.04921    0.901785    0.760814    0.899801
+       800     1.01951    0.929753    0.751673    0.805831
+       900     1.02469    0.933108    0.705132    0.855608
+      1000     1.01275    0.949738    0.728752    0.786277
