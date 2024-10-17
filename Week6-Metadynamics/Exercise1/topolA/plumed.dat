@@ -1,0 +1,16 @@
+# Compute the backbone dihedral angle phi
+
+phi: TORSION ATOMS=5,7,9,15
+
+
+
+# Compute the backbone dihedral angle psi
+
+psi: TORSION ATOMS=7,9,15,17
+
+
+
+# Print the two collective variables on COLVAR file every step
+
+PRINT ARG=phi,psi FILE=COLVAR STRIDE=10
+
