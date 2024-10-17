@@ -2,16 +2,16 @@
 ;	File 'mdout.mdp' was generated
 ;	By user: mr6966 (4102855)
 ;	On host: log-3
-;	At date: Thu Oct 17 13:29:32 2024
+;	At date: Thu Oct 17 13:36:22 2024
 ;
 ;	Created by:
 ;	                     :-) GROMACS - gmx grompp, 2018.3 (-:
 ;	
 ;	Executable:   /share/apps/gromacs/2018.3/openmpi/intel/bin/gmx_mpi
 ;	Data prefix:  /share/apps/gromacs/2018.3/openmpi/intel
-;	Working dir:  /scratch/work/courses/CHEM-GA-2671-2024fa/students/mr6966/comp-lab-class-2024-MR/Week5-ParallelTempering/Inputs
+;	Working dir:  /scratch/work/courses/CHEM-GA-2671-2024fa/students/mr6966/comp-lab-class-2024-MR/Week5-ParallelTempering/Inputs/T600
 ;	Command line:
-;	  gmx_mpi grompp -f adp_T300.mdp -c adp.gro -p adp.top -o adp.tpr
+;	  gmx_mpi grompp -f adp_T440.mdp -c adp.gro -p adp.top -o adp.tpr
 
 ; VARIOUS PREPROCESSING OPTIONS
 ; Preprocessor information: use cpp syntax.
@@ -163,7 +163,7 @@ print-nose-hoover-chain-variables = no
 tc_grps                  = system
 ; Time constant (ps) and reference temperature (K)
 tau_t                    = 0.1
-ref_t                    = 300.000
+ref_t                    = 440.000
 ; pressure coupling     
 Pcoupl                   = no
 pcoupltype               = Isotropic
@@ -212,7 +212,7 @@ annealing-temp           =
 
 ; GENERATE VELOCITIES FOR STARTUP RUN
 gen_vel                  = yes
-gen_temp                 = 300.000
+gen_temp                 = 440.000
 gen_seed                 = 1536
 
 ; OPTIONS FOR BONDS    
