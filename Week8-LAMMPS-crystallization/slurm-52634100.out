@@ -1,0 +1,234 @@
+ERROR on proc 0: Cannot open input script ../Inputs/2dWCA.in: No such file or directory (src/lammps.cpp:521)
+Last command: (unknown)
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[warn] Epoll MOD(1) on fd 23 failed.  Old events were 6; read change was 0 (none); write change was 2 (del): Bad file descriptor
+[warn] Epoll MOD(4) on fd 23 failed.  Old events were 6; read change was 2 (del); write change was 0 (none): Bad file descriptor
+/share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /share/apps/local/lib/libGL.so.1: no version information available (required by /share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA KNL:AVX-512F+CD+ER+PF 
+Info) Free system memory: 238GB (63%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /share/apps/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+Info) Using plugin lammpstrj for structure file 2dWCA_T0.1_d0.5_N100000.lammpstrj
+lammpsplugin) New style dump with 5 data fields. Coordinate data flags: 0x02
+lammpsplugin) Reconstructing atomic coordinates from fractional coordinates and box vectors.
+Info) Using plugin lammpstrj for coordinates from file 2dWCA_T0.1_d0.5_N100000.lammpstrj
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file 2dWCA_T0.1_d0.5_N100000.lammpstrj.
+Info) Analyzing structure ...
+Info)    Atoms: 400
+Info)    Bonds: 811
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 3
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 3   Protein: 0   Nucleic: 0
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file 2dWCA_T0.1_d0.5_N100000.dcd
+Info) Finished with coordinate file 2dWCA_T0.1_d0.5_N100000.dcd.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+ERROR on proc 0: Cannot open input script ../Inputs/2dWCA.in: No such file or directory (src/lammps.cpp:521)
+Last command: (unknown)
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[warn] Epoll MOD(1) on fd 23 failed.  Old events were 6; read change was 0 (none); write change was 2 (del): Bad file descriptor
+[warn] Epoll MOD(4) on fd 23 failed.  Old events were 6; read change was 2 (del); write change was 0 (none): Bad file descriptor
+/share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /share/apps/local/lib/libGL.so.1: no version information available (required by /share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA KNL:AVX-512F+CD+ER+PF 
+Info) Free system memory: 238GB (63%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /share/apps/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+ERROR) Could not read file 2dWCA_T0.1_d0.6_N100000.lammpstrj
+ERROR) Loading of startup molecule files aborted.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+ERROR on proc 0: Cannot open input script ../Inputs/2dWCA.in: No such file or directory (src/lammps.cpp:521)
+Last command: (unknown)
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[warn] Epoll MOD(1) on fd 23 failed.  Old events were 6; read change was 0 (none); write change was 2 (del): Bad file descriptor
+[warn] Epoll MOD(4) on fd 23 failed.  Old events were 6; read change was 2 (del); write change was 0 (none): Bad file descriptor
+/share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /share/apps/local/lib/libGL.so.1: no version information available (required by /share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA KNL:AVX-512F+CD+ER+PF 
+Info) Free system memory: 238GB (63%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /share/apps/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+ERROR) Could not read file 2dWCA_T0.1_d0.7_N100000.lammpstrj
+ERROR) Loading of startup molecule files aborted.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+ERROR on proc 0: Cannot open input script ../Inputs/2dWCA.in: No such file or directory (src/lammps.cpp:521)
+Last command: (unknown)
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[warn] Epoll MOD(1) on fd 23 failed.  Old events were 6; read change was 0 (none); write change was 2 (del): Bad file descriptor
+[warn] Epoll MOD(4) on fd 23 failed.  Old events were 6; read change was 2 (del); write change was 0 (none): Bad file descriptor
+/share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /share/apps/local/lib/libGL.so.1: no version information available (required by /share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA KNL:AVX-512F+CD+ER+PF 
+Info) Free system memory: 238GB (63%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /share/apps/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+ERROR) Could not read file 2dWCA_T0.1_d0.8_N100000.lammpstrj
+ERROR) Loading of startup molecule files aborted.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+ERROR on proc 0: Cannot open input script ../Inputs/2dWCA.in: No such file or directory (src/lammps.cpp:521)
+Last command: (unknown)
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[warn] Epoll MOD(1) on fd 23 failed.  Old events were 6; read change was 0 (none); write change was 2 (del): Bad file descriptor
+[warn] Epoll MOD(4) on fd 23 failed.  Old events were 6; read change was 2 (del); write change was 0 (none): Bad file descriptor
+/share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /share/apps/local/lib/libGL.so.1: no version information available (required by /share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA KNL:AVX-512F+CD+ER+PF 
+Info) Free system memory: 238GB (63%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /share/apps/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+ERROR) Could not read file 2dWCA_T0.1_d0.9_N100000.lammpstrj
+ERROR) Loading of startup molecule files aborted.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+ERROR on proc 0: Cannot open input script ../Inputs/2dWCA.in: No such file or directory (src/lammps.cpp:521)
+Last command: (unknown)
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[warn] Epoll MOD(1) on fd 23 failed.  Old events were 6; read change was 0 (none); write change was 2 (del): Bad file descriptor
+[warn] Epoll MOD(4) on fd 23 failed.  Old events were 6; read change was 2 (del); write change was 0 (none): Bad file descriptor
+/share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /share/apps/local/lib/libGL.so.1: no version information available (required by /share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA KNL:AVX-512F+CD+ER+PF 
+Info) Free system memory: 238GB (63%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /share/apps/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+ERROR) Could not read file 2dWCA_T0.1_d1.0_N100000.lammpstrj
+ERROR) Loading of startup molecule files aborted.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
+ERROR on proc 0: Cannot open input script ../Inputs/2dWCA.in: No such file or directory (src/lammps.cpp:521)
+Last command: (unknown)
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[warn] Epoll MOD(1) on fd 23 failed.  Old events were 6; read change was 0 (none); write change was 2 (del): Bad file descriptor
+[warn] Epoll MOD(4) on fd 23 failed.  Old events were 6; read change was 2 (del); write change was 0 (none): Bad file descriptor
+/share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64: /share/apps/local/lib/libGL.so.1: no version information available (required by /share/apps/vmd/1.9.3/lib/vmd/vmd_LINUXAMD64)
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 48 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA KNL:AVX-512F+CD+ER+PF 
+Info) Free system memory: 238GB (63%)
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /share/apps/vmd/1.9.3/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+ERROR) Could not read file 2dWCA_T0.1_d1.1_N100000.lammpstrj
+ERROR) Loading of startup molecule files aborted.
+Info) VMD for LINUXAMD64, version 1.9.3 (November 30, 2016)
+Info) Exiting normally.
