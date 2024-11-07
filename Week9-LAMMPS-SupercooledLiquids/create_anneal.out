@@ -1,0 +1,55 @@
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
+LAMMPS (15 Sep 2022)
+OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:98)
+  using 1 OpenMP thread(s) per MPI task
+ERROR on proc 0: Cannot open input script kalj.lmp: No such file or directory (src/input.cpp:1023)
+Last command: kalj.lmp
