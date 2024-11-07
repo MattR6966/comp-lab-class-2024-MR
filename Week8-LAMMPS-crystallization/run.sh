@@ -12,11 +12,11 @@ source /scratch/work/courses/CHEM-GA-2671-2024fa/software/lammps-gcc-30Oct2022/s
 
 # that LAMMPS can read and that you modify only if necessary.
 
-template_file="./Inputs/2dWCA.in"
+template_file="./Inputs/3dWCA.in"
 
 
 
-for density in $(seq 0.5 0.1 1.1); do
+for density in $(seq 0.8 0.1 1.5); do
 
     # Use the template file with a fixed density value in the simulation command.
 
@@ -28,9 +28,9 @@ for density in $(seq 0.5 0.1 1.1); do
 
     # Run VMD without using redirection
 
-    trajectory_file="2dWCA_T0.1_d${density}_N100000.lammpstrj"
+    trajectory_file="3dWCA_T0.1_d${density}_N100000.lammpstrj"
 
-    output_file="2dWCA_T0.1_d${density}_N100000.dcd"
+    output_file="3dWCA_T0.1_d${density}_N100000.dcd"
 
     vmd "$trajectory_file" "$output_file"
 
