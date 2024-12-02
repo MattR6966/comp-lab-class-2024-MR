@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=water_simulation
+#SBATCH --job-name=proton_simulation
 
 #SBATCH --ntasks-per-node=12
 
